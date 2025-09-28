@@ -4,12 +4,12 @@
 ## PRN: 24070123057
 ## Division: ENTC-A3
 ## Title: Understanding Queues in C++
-
+-----
 
 ## Aim  
 To study and implement Queues in C++.
 
-## 🛠 Tools Used  
+##  Tools Used  
 - Visual Studio Code  
 - Programiz Online Compiler  
 
